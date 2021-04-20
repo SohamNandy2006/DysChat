@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629055678919",
+    "project_id": "androiddyschat",
+    "storage_bucket": "androiddyschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629055678919:android:ad1b167c8c48689f71d1e2",
+        "android_client_info": {
+          "package_name": "com.example.dyschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629055678919-s18mumgknjo726124erir0rrvcr8098d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPfuB8n7kkZqu1xhHvJve8GNmoAKnzu90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629055678919-s18mumgknjo726124erir0rrvcr8098d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
